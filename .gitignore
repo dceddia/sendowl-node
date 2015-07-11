@@ -1,2 +1,5 @@
 *sublime-*
 node_modules/
+config/development.json
+config/test.json
+config/production.json
