@@ -2,7 +2,7 @@
   "author": "Sander Pick (git://github.com/sanderpick)",
   "name": "sendowl-node",
   "description": "NodeJS client library for the SendOwl API",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "repository": {
     "type": "git",
     "url": "git://github.com/sanderpick/sendowl-node.git"
